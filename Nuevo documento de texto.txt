@@ -1,0 +1,19 @@
+<html>
+	<head>	
+		<title>	
+			Mi primera pagina web
+		</title>
+	</head>
+	
+	<body>
+		<header>
+			<h1>imagen de cabezote</h1>
+			<ing src="https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396-960-720.jpg">
+		</header>
+	
+		<main>
+			<h3>video incrustado</h3>
+			<https://www.youtube.com/watch?v=DYYhUiGaArw>
+
+	</body>
+</html>
